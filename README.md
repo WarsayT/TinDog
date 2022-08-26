@@ -7,4 +7,9 @@ Its for practice purpose.
 
 # Tools 
 
-I used bootstap grid system to create a responsive web page.
+* HTML for the content
+* CSS for custom styling
+* bootstap grid system to create a responsive web page.
+* fontawsome for icons
+* google fonts for typography
+
